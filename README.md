@@ -1,7 +1,5 @@
 # APILib
 
----
-
 A simple Python library to access APIs
 
 
@@ -10,15 +8,12 @@ A simple Python library to access APIs
 
 ## Features
 
----
-
-- Quick API
-- Uses Aiohttp and AsyncIO for speed and asynchronous programming
+- Fast API
+- Supports async/await syntax
 - Simple to use
 
 ## Installation
 
----
 **Python 3.6 or higher is required**
 
 To install APILib, run
